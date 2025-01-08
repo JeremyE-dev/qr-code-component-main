@@ -32,7 +32,7 @@ body {
 }
 
 .qr-code {
-    background-image: url('/images/image-qr-code.png');
+    background-image: url('./images/image-qr-code.png');
     background-size: cover; /* Ensures the image covers the entire element */
     background-position: center; /* Centers the image inside the element */
     width: 275px; /* Set the width of the element */
